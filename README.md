@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leticiappv
-- 👀 I’m interested in TI!
+- 👀 I’m interested in IT!
 - 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
